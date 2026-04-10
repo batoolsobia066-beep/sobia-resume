@@ -1,11 +1,19 @@
-# 👩‍💻 Sobia Batool
+<h1 align="center">👩‍💻 Sobia Batool</h1>
 
-Computer Science Student | Aspiring Software Developer  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/batoolsobia066-beep/sobia-resume/main/profile.jpg" width="150">
+</p>
+
+<p align="center">
+  🎓 Computer Science Student | 💻 Aspiring Software Developer
+</p>
+
+--- 
 
 📍 Rawalpindi, Pakistan  
-🔗 https://github.com/batoolsobia066-beep
-🔗https://www.linkedin.com/feed/
-📧 batoolsobia066@gmail.com
+🔗 [My GitHub Profile](https://github.com/batoolsobia066-beep)
+🔗[My LinkedIn Profile](https://www.linkedin.com/in/YOUR-USERNAME)
+📧 [batoolsobia066@gmail.com](mailto:batoolsobia066@gmail.com)
 
 ---
 
@@ -43,7 +51,7 @@ Object-Oriented Programming (OOP), Data Structures, File Handling
 - Designed quiz engine with automatic scoring and result calculation  
 - Used file handling to store questions and user results  
 
-🔗https://github.com/batoolsobia066-beep/Quiz-Management-System-Cpp  
+🔗[View Project](https://github.com/batoolsobia066-beep/Quiz-Management-System-Cpp) 
 
 ---
 
@@ -53,7 +61,7 @@ Object-Oriented Programming (OOP), Data Structures, File Handling
 - Developed secure login system using PIN authentication  
 - Managed data using binary file handling  
 
-🔗https://github.com/batoolsobia066-beep/Bank-Management-System-C
+🔗[View Project](https://github.com/batoolsobia066-beep/Bank-Management-System-C)
 
 ---
 
@@ -76,9 +84,11 @@ CGPA: 3.75 / 4.00
 
 ## 📫 Contact
   
-🔗 https://github.com/batoolsobia066-beep
-🔗https://www.linkedin.com/feed/
-📧 batoolsobia066@gmail.com 
+<p align="center">
+  <a href="mailto:batoolsobia066@gmail.com">📧 Email</a> |
+  <a href="https://www.linkedin.com/in/sobia-batool-4a1a75401/">LinkedIn</a> |
+  <a href="https://github.com/batoolsobia066-beep">GitHub</a>
+</p>
 
 ---
 
